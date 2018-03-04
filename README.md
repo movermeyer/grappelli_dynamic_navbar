@@ -1,8 +1,8 @@
 # grappelli-dynamic-navbar
 
-[![Latest PyPI version](https://pypip.in/v/grappelli-dynamic-navbar/badge.png)](https://crate.io/packages/grappelli-dynamic-navbar/)
+[![Latest PyPI version](https://img.shields.io/pypi/v/grappelli-dynamic-navbar.svg)](https://crate.io/packages/grappelli-dynamic-navbar/)
 
-[![Number of PyPI downloads](https://pypip.in/d/grappelli-dynamic-navbar/badge.png)](https://crate.io/packages/grappelli-dynamic-navbar/)
+[![Number of PyPI downloads](https://img.shields.io/pypi/dm/grappelli-dynamic-navbar.svg)](https://crate.io/packages/grappelli-dynamic-navbar/)
 
 
 Available features:
